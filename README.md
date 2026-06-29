@@ -12,7 +12,7 @@ The project was developed using Python for data cleaning and analysis, while Pow
 
 ## 📂 Dataset Information
 
-- **Source:** Kaggle
+- **Source:** Kaggle(https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset)
 - **Total Records:** 1,615,940
 - **Total Columns:** 20
 - **Dataset Type:** Job Market Dataset
